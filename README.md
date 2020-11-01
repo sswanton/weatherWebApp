@@ -1,0 +1,2 @@
+# weatherWebApp
+Exercise in Go
